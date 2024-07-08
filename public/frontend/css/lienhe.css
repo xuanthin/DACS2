@@ -1,0 +1,331 @@
+.lienhe_ct {
+    width: 100%;
+    float: right;
+}
+.left_lh {
+    width: 50%;
+    float: left;
+}
+.left_lh h4 {
+    font-size: 16px;
+    color: #EE9F1F;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+.lhnb p{
+    font-weight: 700;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.left_lh p {
+    color: black;
+}
+.box_group_from input[type="text"], .form_nho textarea {
+    border: 1px solid #E9E9E9;
+    width: 100%;
+    padding: 15px 10px 15px 20px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    color: #ada6a6;
+}
+.box_group_from input[type="email"], .box_group_from input[type=""] {
+    border: 1px solid #E9E9E9;
+    width: 48%;
+    padding: 15px 10px 15px 20px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    float: left;
+    color: #ada6a6;
+}
+.box_group_from input[type="password"], .form_nho textarea {
+    border: 1px solid #E9E9E9;
+    width: 100%;
+    padding: 15px 10px 15px 20px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    color: #ada6a6;
+}
+.box_group_from input[type="email"], .box_group_from input[type=""] {
+    border: 1px solid #E9E9E9;
+    width: 48%;
+    padding: 15px 10px 15px 20px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    float: left;
+    color: #ada6a6;
+}
+.box_group_from input[type="email"]{
+    margin-right: 2%;
+}
+.box_group_from input[type=""]{
+    margin-left: 2%;
+}
+.button_ok #_send_contact {
+    width: 100%;
+    background: transparent linear-gradient(70deg, #EE9F1F 0%, #FCBC53 100%) 0% 0% no-repeat padding-box;
+    border-radius: 36px;
+    padding: 10px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 13px;
+}
+.button_ok:after {
+    content: url(/images/xt.svg);
+    position: absolute;
+    top: 9px;
+    right: 41%;
+    width: 30px;
+    height: 30px;
+}
+.button_ok{
+    position: relative;
+}
+.lh {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.img_lh {
+    background: #EE9F1F;
+    width: 20px;
+    float: left;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+.img_lh img {
+    padding-left: 5px;
+}
+.cauhoi p {
+    color: #7E7E7E;
+    text-transform: capitalize;
+}
+.chunggp.pg1 {
+    margin-bottom: 20px;
+}
+.cauhoi {
+    margin-top: 30px;
+}
+.chung p {
+    cursor: pointer;
+}
+.form_gh {
+    width: 50%;
+    float: left;
+    padding-right: 40px;
+}
+
+h4.title_product {
+    font-size: 17px;
+    color: #2E2E2E;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+input#nguoidat, input#tell, input#email, input#tinhthanh2, input#quanhuyen2, input#phuongxa2, input#txtAddress2, textarea#txtContent {
+    width: 100%;
+    background: #f8f8f8;
+    border: 1px dashed #E9E9E9;
+    padding: 10px;
+    color: #000000b8;
+    margin-bottom: 10px;
+}
+.text_check {
+    color: black;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+.box_check {
+    margin-right: 4%;
+}
+.check_bank {
+    margin-bottom: 20px;
+}
+input#_send_order {
+    width: 100%;
+    background: transparent linear-gradient(51deg, #EE9F1F 0%, #FCBC53 100%) 0% 0% no-repeat padding-box;
+    padding: 10px;
+    border-radius: 50px;
+    color: white;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-right: 2%;
+}
+.ctm {
+    text-align: center;
+    background: #581008;
+    width: 48%;
+    float: right;
+    margin-left: 2%;
+    padding: 10px;
+    border-radius: 50px;
+}
+.ctm a.chung_e {
+    color: white;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 13px;
+}
+.ctm a img {
+    margin-left: 10px;
+}
+.smgh {
+    width: 48%;
+    float: left;
+    position: relative;
+}
+.smgh:after {
+    content: url(/images/xt.svg);
+    position: absolute;
+    top: 9px;
+    right: 18%;
+}
+.gh {
+    margin-bottom: 40px;
+}
+.button_ax {
+    margin-top: 20px;
+}
+
+.leftht {
+    width: 40%;
+    float: left;
+}
+.rightht{
+    width: 60%;
+    float: right;
+}
+.selecoptionhuong > select {
+    font-weight: 700;
+    color: #581008;
+    width: 80%;
+    height: 50px;
+    padding-left: 30px;
+    background: #fff;
+    outline: none;
+    border-radius: 50px;
+    border: 1px solid #581008;
+    position: relative;
+}
+.selecoptionhuong > select {
+    background-repeat: no-repeat;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background-image: url(/images/down.svg);
+    background-size: 15px;
+    background-position-x: 22em;
+    background-position-y: 20px;
+}
+.ndungtren {
+    padding-right: 20px;
+}
+.selecoptionhuong {
+    margin-bottom: 20px;
+}
+.noidunght {
+    margin-top: 50px;
+}
+.ndungduoi {
+    margin-top: 50px;
+    position: relative;
+}
+.ndungduoi p {
+    color: #1E1E1E;
+}
+.ndungduoi h4 {
+    font-size: 15px;
+    color: #581008;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+.ndungduoi img{
+    position: absolute;
+}
+
+form [class^="col-"] > input, form [class^="col-"] > select, form [class^="col-"] > textarea, form [class^="col-"] > .btn, form [class^="col-"] > button, form [class*=" col-"] > input, form [class*=" col-"] > select, form [class*=" col-"] > textarea, form [class*=" col-"] > .btn, form [class*=" col-"] > button {
+  width: 100%;
+}
+
+form.form-bordered {
+  padding: 25px 30px;
+  border: 1px solid #edf6ff;
+}
+form label {
+  font-size: 1.0833em;
+  font-weight: 400;
+  display: block;
+}
+
+.form-group:not(.box) {
+  margin-bottom: 20px;
+}
+.form-group {
+  background: #edf6ff;
+  border: none;
+  line-height: normal;
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 42px;
+  font-size: 1.0833em;
+}
+
+input.shipping_name,
+    .shipping_address,
+    .shipping_email,
+    .shipping_phone,
+    .shipping_note, select, textarea, .customSelect {
+  background: #edf6ff;
+  border: none;
+  line-height: normal;
+}
+
+input.input-text,
+.input-password, textarea, .customSelect, select {
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 42px;
+  font-size: 1.0833em;
+}
+input.input-text.input-lg, textarea.input-lg, .customSelect.input-lg, select.input-lg {
+  height: 48px;
+  font-size: 1.1667em;
+}
+input.input-text.input-md, textarea.input-md, .customSelect.input-md, select.input-md {
+  height: 42px;
+  font-size: 1.0833em;
+}
+input.input-text.input-sm, textarea.input-sm, .customSelect.input-sm, select.input-sm {
+  height: 34px;
+  font-size: 1em;
+}
+input.input-text.input-xs, textarea.input-xs, .customSelect.input-xs, select.input-xs {
+  height: 28px;
+  font-size: 0.9167em;
+}
+input.input-text.white, textarea.white, .customSelect.white, select.white {
+  background: #fff;
+}
+
+input.input-text, textarea {
+  -moz-transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+  -o-transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+  -webkit-transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+  -ms-transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+  transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+  border: 1px solid transparent;
+  cursor: text;
+}
+input.input-text:focus, textarea:focus {
+  outline: none;
+  border: 1px solid #ff6600;
+  box-shadow: 0 0 8px rgba(255, 102, 0, 0.6);
+}
+
+textarea {
+  height: auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
